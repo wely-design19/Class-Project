@@ -1,6 +1,6 @@
 # Web Design Project 
 
 <ul>
- <li><a href="Intro_to_HTML\index.html" target="blank"> Intro to HTML</a></li>>
+ <li><a href="intro_to_html\index.html" target="blank"> Intro to HTML</a></li>>
 
 </ul>
