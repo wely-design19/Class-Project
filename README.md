@@ -3,5 +3,5 @@
 <ul>
  <li><a href="Intro_to_HTML\Index.html" target="blank"> Home </a></li>
  <li><a href="Intro_to_HTML\Main_Ch.html" target="blank"> page 2</a></li>
- <li><a href="Intro_to_HTML\BestCh.html" target="blank"> page three</a></li>
+ <li><a href="Intro_to_HTML\_BestCh.html" target="blank"> page three</a></li>
 </ul> 
