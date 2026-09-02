@@ -1,0 +1,38 @@
+body {
+background-color: rgb(96, 202, 255); }
+
+#Container {
+background-color: aliceblue(253, 253, 253);
+width: 1000px;
+margin: 20px auto;
+border: 2px solid rgb(0, 0, 0);
+padding: 20px;
+border-radius: 20px;
+}
+
+
+
+img {
+    display: block;
+    margin: 50px auto;
+    width: center;
+}
+
+.img_style {
+
+display: block;
+margin: 20px auto;
+width: 800px;
+
+}
+nav a {
+
+    color: aliceblue;
+    text-decoration: none;
+}
+
+nav a:hover {
+color: blueviolet;
+text-decoration: wavy;
+
+}
