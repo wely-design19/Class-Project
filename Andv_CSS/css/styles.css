@@ -28,7 +28,7 @@ a:hover {
 header {
 text-align: center;
 padding: 40px;
-border-bottom: 2px solid springgreen;
+;
 }
 
 header h1 {
@@ -84,7 +84,7 @@ main h2 {
 
 
 aside{
-    border-radius: 10px;
+    border-radius: 10%;
     border: 5px solid yellow;
 }
 
