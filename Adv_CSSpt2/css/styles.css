@@ -1,0 +1,138 @@
+/* Might add a gif that doesn't work in mobile version. */
+
+
+body {
+    background-color: rgb(255, 0, 208);
+}
+
+img {display:block;
+    margin: 0 auto;
+    width: 50%;
+    }
+
+a:hover {text-decoration: none;}
+
+#Container { padding: 40px;
+    border: 4px solid #0D0D0D;
+    border-radius: 10px;
+    width: 80%;
+    padding: 40px;
+    margin: 20px auto;
+    background-color: #888DF2;
+ }
+nav {text-align: center;}
+
+nav ul{padding: 0;
+list-style-type: none;}
+
+nav li {display: block;}
+
+nav li a {display: block;
+background-color: aliceblue;
+height: 40px;
+line-height: 40x;
+text-decoration: none;
+font-size: 25px;
+margin-top: 10px;
+border: 4px black solid;}
+
+nav li a:hover {
+    background-color: aqua;
+}
+
+main {padding: 10px;
+margin: 0;}
+
+.mutlicol{display: flex;}
+
+aside {border-radius: 20%;
+border: 10px solid #F2C0A2;
+color: black;
+padding: 20px;
+font-size: 25px;}
+
+
+img {border-radius: 10px;
+border: 2px solid#F2EEAC;}
+
+footer {padding: 40px;
+text-align: center;}
+
+
+
+
+/* Mobile style */
+
+@media (max-width: 499px) {
+
+header {background: url(../Images/OSPCH17YinYangOrb.jpg);
+background-repeat: no-repeat;
+background-size: cover; 
+padding: 50px;
+margin: auto;
+background-color: pink;
+color: orange;
+}
+}
+
+
+
+
+/* Tablet Styles */
+
+@media (min-width:500px) and (max-width: 1024px)
+{header { background-color: aliceblue;
+    background-image: none;
+    color: black;
+    }
+}
+
+@media (min-width: 760px) {
+
+body { background-color: rgb(255, 192, 242); }
+
+
+nav li {display: inline-block;
+width: 150px;
+padding: 10px;
+border-bottom: 2px solid black;}
+
+nav li a:hover{background-color: aquamarine;
+}
+}
+
+/* Tablet version. */
+
+
+/* header {background-image: url(../images/2hu_games_smaller.png);
+background-repeat: no-repeat;
+background-size: cover;
+padding: 50px;
+opacity: 50%;} */
+
+/* opacity: makes images transparent */
+
+/* Desktop */
+
+@media (min-width: 1024px) {
+
+body {background-image: url(../Images/Gensou.png);
+   color: aliceblue; 
+    background-size: cover;}
+
+
+
+header { background-color: #F2766B;
+border: 4px solid rgb(0, 200, 255);
+border-radius: 20px;
+padding: 20px;
+size: 20px;
+color: #0D0D0D;
+font-size: 25px;
+text-align: center;
+}
+
+
+
+}
+
