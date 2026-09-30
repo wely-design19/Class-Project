@@ -43,6 +43,8 @@ nav a {
     border-radius: 50px;
 }
 
+
+
 nav a:hover {background-color: yellow;
     color: goldenrod;}
 
@@ -61,7 +63,8 @@ li a {color: aqua;}
 img {margin: 0 auto;
 display: block;
 width: 75%;
-height: 75%;}
+height: 75%;
+}
 
 #Container {background-color: rgb(103, 13, 142);}
 }
